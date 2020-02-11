@@ -1,0 +1,16 @@
+body {
+    background-color: whitesmoke;
+}
+
+#header {
+    height: 45vh;
+    background-color: #7a4a80;
+    color: white;
+    text-align: center;
+}
+
+#main {
+    min-height: 10vh;
+    border: 1px solid darkgrey;
+    border-radius: 3px;
+}
